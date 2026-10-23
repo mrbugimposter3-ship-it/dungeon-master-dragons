@@ -1,0 +1,46 @@
+# Unity generated
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+[Rr]ecordings/
+
+# Asset meta noise from local imports that should not be forced
+sysinfo.txt
+
+# IDE
+.vs/
+.idea/
+.vscode/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# OS
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Crash / addressables leftovers
+[Cc]rash[Rr]eports/
+InitTestScene*.unity*
+
+# Plastic / Collab
+.plastic/
+*.private
+*.private.meta
